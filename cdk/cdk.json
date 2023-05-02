@@ -25,10 +25,10 @@
       "aws",
       "aws-cn"
     ],
-    "RepositoryString": "lukepopp/aws-blog-openapi-cdkv2",
+    "RepositoryString":"JenkinsUserTest/AWSCDKPIPELINESWAGGER",
     "RepositoryBranch": "main",
-    "CodestarConnectionArn": "arn:aws:codestar-connections:ap-southeast-2:067566784356:connection/27053bd0-ce64-4c0b-9381-e31475918dfa",
-    "CodeArtifactDomain": "openapiblog",
-    "CodeArtifactRepository": "openapiblog"
+    "CodestarConnectionArn": "arn:aws:codestar-connections:us-east-2:094853031708:connection/db774594-ab10-437d-ad08-018439c7bab3",
+    "CodeArtifactDomain": "yash",
+    "CodeArtifactRepository": "firstproject"
   }
 }
